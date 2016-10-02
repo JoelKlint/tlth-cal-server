@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "sqlite": "../data/tlthCalServer.sqlite",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "rzmLBHgzi87IhC4YQ5ZQqKVXtlHh58eYDTuybQ+t11/Oetu7pxomsLKQ/4XZVFjRU7kcro61yjImL5m+ES66qg=="
+    },
+    "local": {}
+  }
+}
